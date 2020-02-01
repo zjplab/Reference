@@ -16,7 +16,7 @@
 
 ### [Mendel](http://www.ncbi.nlm.nih.gov/books/NBK22098/)
 
-## Rediscovery of Mendel and advances by TH Morgan
+### Rediscovery of Mendel and advances by TH Morgan
 - http://www.ncbi.nlm.nih.gov/books/NBK22076/
 - http://www.ncbi.nlm.nih.gov/books/NBK21827/
 
